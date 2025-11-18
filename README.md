@@ -1,6 +1,6 @@
 # Hi, I'm Sally 
 ## About Me:
-🇻🇳 Vietnamese, currently living in 🐨🇦🇺<br>👩🏻‍🎓 Studied Computer Science @ The University of Adelaide (major in Distributed Systems and Networking)<br>⚙️ Currently working on a personal project, "Blip", a cooking social media.<br>💕 Enjoy cooking, pilates and the occasional dine out.<br>
+🇻🇳 Vietnamese, currently living in 🐨🇦🇺<br>👩🏻‍🎓 Studied Computer Science @ The University of Adelaide (major in Distributed Systems and Networking)<br>⚙️ Currently working on a personal project, "Blip", a cooking social media. (Follow my journey)<br>💕 Enjoy cooking, pilates and the occasional dine out.<br>
 ### Enjoy crafting software and turning ideas into reality.
 
 
