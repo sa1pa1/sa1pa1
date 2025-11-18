@@ -1,5 +1,5 @@
 # 💫 About Me:
-🇻🇳 Vietnamese, currently living in 🐨🇦🇺<br>👩🏻‍🎓 Studied Computer Science @ The University of Adelaide (major in Distributed Systems and Networking)<br>⚙️ Currently working on a personal project, "Blip", a cooking social media. <br>📚 Currently learning Power BI (PL-300) and Azure (AZ-900)<br>💕 Enjoy cooking, pilates and the occasional dine out. <br><br>
+🇻🇳 Vietnamese, currently living in 🐨🇦🇺<br>👩🏻‍🎓 Studied Computer Science @ The University of Adelaide (major in Distributed Systems and Networking)<br>⚙️ Currently working on a personal project, "Blip", a cooking social media. <br>💕 Enjoy cooking, pilates and the occasional dine out. <br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sally-pham-bui) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nganphamphuong.bui@gmail.com) 
 
