@@ -1,6 +1,6 @@
 # Hi, I'm Sally 
 ## About Me:
-👩🏻‍🎓 Studied Computer Science @ The University of Adelaide (major in Distributed Systems and Networking)<br>(https://github.com/sa1pa1/Byte1.0))<br>💕 Enjoy cooking, pilates and the occasional dine out.<br>
+👩🏻‍🎓 Studied Computer Science @ The University of Adelaide (major in Distributed Systems and Networking)
 ### Ojective: Beautiful on the outside, solid on the inside
 
 
