@@ -1,7 +1,7 @@
 # Hi, I'm Sally 
 ## About Me:
 👩🏻‍🎓 Studied Computer Science @ The University of Adelaide (major in Distributed Systems and Networking)<br>⚙️ Currently project, "Byte", a cooking challenge app. ([Follow my journey](https://github.com/sa1pa1/Byte1.0))<br>💕 Enjoy cooking, pilates and the occasional dine out.<br>
-### Enjoy crafting software and turning ideas into reality.
+### Ojective: Beautiful on the outside, solid on the inside
 
 
 ## Contacts:
